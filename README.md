@@ -133,7 +133,7 @@ Alpha 0.9 0.
 
 
 I was able to achieve more than 90% in bot tasks and the largest positive effect on the agents performance was observed when lowering the value of the moving average ALPHA parameter from 0. to 0.4. also a video showing what i have done
-https://www.youtube.com/watch?v=aA83qXZpdi
+https://www.youtube.com/watch?v=aA83qXZpdi4&ab_channel=HythamTag
 
 ## 4 FUTUREWORK
 
